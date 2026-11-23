@@ -1,0 +1,6 @@
+.venv/
+data/raw/
+*.db
+__pycache__/
+flask_session/
+.ipynb_checkpoints/
